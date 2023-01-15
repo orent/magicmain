@@ -1,3 +1,4 @@
+__import__('zipimport_ext')
 exec(compile(
     # The zip from which __main__ was loaded:
     open(__loader__.archive, 'rb').read(
