@@ -1,4 +1,4 @@
-This module adds a "magic" __main__.py that turns a zip file of dependencies
+This module adds a "magic" `__main__.py` that turns a zip file of dependencies
 into something that can be appended to Python script.
 
 Example:
